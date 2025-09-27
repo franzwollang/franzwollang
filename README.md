@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Franz 👋</h1>
 
-<!--
-**franzwollang/franzwollang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/franzwollang"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-success?style=for-the-badge"></a>
+  <a href="https://orcid.org/0000-0002-6631-7671"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0002--6631--7671-9cf?style=for-the-badge"></a>
+</p>
 
-Here are some ideas to get you started:
+### What I do
+- Full‑stack development (React/Next.js, Node.js/FastAPI)
+- Data engineering + practical ML (NLP, embeddings, UMAP, evaluation)
+- Custom visualizations (Three.js, D3) for exploratory analysis and UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Most recent work is in private client/startup repos; happy to walk through code and architecture on request.
+
+### Tech
+- **Frontend**: React, Next.js, TypeScript, Three.js, D3, Tailwind/Styled‑Components
+- **Backend**: Node.js, FastAPI (Python), REST, GraphQL, WebSockets
+- **Data**: PostgreSQL, `pgvector`, SQL; pandas, scikit‑learn; PyTorch
+- **Infra**: Docker, GitHub Actions; GCP, Vercel, Railway
+
+### Currently
+Building interactive data products and shipping pragmatic ML features end‑to‑end. Open to roles in Data Engineering/Science and Full‑stack Web (remote‑friendly; Austin/Dallas preferred).
