@@ -14,12 +14,5 @@ I build full‑stack applications, pairing React/Next.js with Node.js and FastAP
 - **Data**: PostgreSQL, `pgvector`, `postgis`; pandas, scikit‑learn; PyTorch
 - **Infra**: Docker, GitHub Actions; GCP, Vercel, Railway
 
-### Publications
-The Interactive Career Atlas – An AI‑Based Web Application for Informed Career Decisions
-DOI: [10.1007/978-3-031-93409-4_4](https://doi.org/10.1007/978-3-031-93409-4_4)
-
-Transformer‑Based Deep Neural Language Modeling for Construct‑Specific Automatic Item Generation
-DOI: [10.1007/s11336-021-09823-9](https://doi.org/10.1007/s11336-021-09823-9)
-
 ### Currently
 Building interactive data products and shipping pragmatic ML features end‑to‑end. Open to roles in Data Engineering/Science and Full‑stack Web (remote‑friendly; Austin/Dallas preferred).
