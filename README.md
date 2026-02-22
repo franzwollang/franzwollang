@@ -10,7 +10,7 @@ I build full‑stack applications, pairing React/Next.js with Node.js and FastAP
 
 ### Tech
 - **Frontend**: React, Next.js, TypeScript, Three.js, D3, Tailwind/Styled‑Components
-- **Backend**: NGINX, Node.js, FastAPI Ecosystem (Python), REST, GraphQL, WebSockets
+- **Backend**: NGINX, Node.js, Python, FastAPI Ecosystem, REST, GraphQL, WebSockets
 - **Data**: PostgreSQL, `pgvector`, `postgis`; pandas, scikit‑learn; PyTorch
 - **Infra**: Docker, GitHub Actions; GCP, Vercel, Railway
 
